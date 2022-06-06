@@ -1,4 +1,4 @@
-const sumarrrrr = require("./sumar");
+const sumar = require("./sumar");
 
 const restar = require("./restar");
 
